@@ -8,5 +8,5 @@ learning Unity Shaders
 
 ![](./img/water2.gif)
 
-![](./img/graph.png)
+![](./img/water_graph.png)
 
